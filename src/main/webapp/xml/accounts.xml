@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AccountList>
+		<Account>
+			<accountId>01</accountId>
+			<username>admin</username>
+			<password>password</password>
+			<email>zenon@my.yorku.ca</email>
+		</Account>
+		<Account>
+			<accountId>02</accountId>
+			<username>zenon</username>
+			<password>password</password>
+			<email>zenon@my.yorku.ca</email>
+		</Account>
+		<Account>
+			<accountId>03</accountId>
+			<username>test</username>
+			<password>password</password>
+			<email>zenon@my.yorku.ca</email>
+		</Account>
+		
+</AccountList>

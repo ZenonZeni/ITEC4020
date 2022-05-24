@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassList>
+		<Student>
+			<studentId>00</studentId>
+			<studentName>Group3</studentName>
+			<username>admin</username>
+			<password>password</password>
+			<gpa> Infinite </gpa>
+		</Student>
+		<Student>
+			<studentId>01</studentId>
+			<studentName>Christopher Nguyen</studentName>
+			<username>ZenonZeni</username>
+			<password>password</password>
+			<gpa> 9.0 </gpa>
+		</Student>
+		<Student>
+			<studentId>02</studentId>
+			<studentName>Yu Shan</studentName>
+			<username>Yu</username>
+			<password>password</password>
+			<gpa> 8.0 </gpa>
+		</Student>
+		<Student>
+			<studentId>03</studentId>
+			<studentName>Chenkai Qian</studentName>
+			<username>Chenkai</username>
+			<password>password</password>
+			<gpa> 7.0 </gpa>
+		</Student>
+		<Student>
+			<studentId>04</studentId>
+			<studentName>Denis Nedeljkovic</studentName>
+			<username>Denis</username>
+			<password>password</password>
+			<gpa> 6.0 </gpa>
+		</Student>
+		<Student>
+			<studentId>05</studentId>
+			<studentName>Chenhao Wang</studentName>
+			<username>Chenhao</username>
+			<password>password</password>
+			<gpa> 5.0 </gpa>
+		</Student>
+		<Student>
+			<studentId>06</studentId>
+			<studentName>Sensei Bob</studentName>
+			<username>Bob</username>
+			<password>password</password>
+			<gpa> 5.0 </gpa>
+		</Student>
+		<Student>
+			<studentId>07</studentId>
+			<studentName>Sensei Ronald</studentName>
+			<username>Ronald</username>
+			<password>password</password>
+			<gpa> -9.0 </gpa>
+		</Student>
+</ClassList>
